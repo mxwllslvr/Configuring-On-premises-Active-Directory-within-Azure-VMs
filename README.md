@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Create Azure VMs"/>
+<img src="https://i.imgur.com/tOrwpF0.png" height="80%" width="80%" alt="Create Azure VMs"/>
 </p>
 <p>
 <b>Step 1: Create and Configure Azure Virtual Machines</b><br />
@@ -46,7 +46,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Install AD DS"/>
+<img src="https://i.imgur.com/xTIADQ7.png" height="80%" width="80%" alt="Install AD DS"/>
 </p>
 <p>
 <b>Step 2: Install and Configure Active Directory Domain Services</b><br />
@@ -59,7 +59,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Configure Client"/>
+<img src="https://i.imgur.com/lYpyBBa.png" height="80%" width="80%" alt="Configure Client"/>
 </p>
 <p>
 <b>Step 3: Configure Networking and Join Client to Domain</b><br />
@@ -72,7 +72,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Test Deployment"/>
+<img src="https://i.imgur.com/4RCwA2c.png" height="80%" width="80%" alt="Test Deployment"/>
 </p>
 <p>
 <b>Step 4: Test and Validate the Deployment</b><br />
