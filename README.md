@@ -37,7 +37,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <b>Step 1: Create and Configure Azure Virtual Machines</b><br />
 1. Log in to the Azure Portal and navigate to "Virtual Machines".<br />
-2. Create a new VM using Windows Server 2022 as the OS. Name it DC-1(e.g., "Domain Controller 1").<br />
+2. Create a new VM using Windows Server 2022 as the OS. Name it DC-1 (e.g., "Domain Controller 1").<br />
 3. Configure the VM size (e.g., Standard_D2s_v3) and set up a public IP address.<br />
 4. Create another VM using Windows 10 (21H2) as the client machine (e.g., "Client-VM").<br />
 5. Ensure both VMs are in the same Virtual Network (VNet) and subnet for communication.<br />
